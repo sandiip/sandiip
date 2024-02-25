@@ -48,12 +48,12 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="Coding gif" />
   
- ✌️ &emsp; Currently, I'm working as a React.js developer, continuously honing my skills and exploring the depths of Python. <br/><br/>
- ❤️ &emsp; I'm passionate about UI/UX development and creating captivating user experiences.<br/><br/>
- 📧 &emsp; Feel free to drop me a line at sandeep.panwar0094@gmail.com. I'm always open to connecting and discussing exciting opportunities!<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ ✌️&emsp;Currently, I'm working as a React.js developer, continuously honing my skills and exploring the depths of Python. <br/><br/>
+ ❤️&emsp;I'm passionate about UI/UX development and creating captivating user experiences.<br/><br/>
+ 📧&emsp;Feel free to drop me a line at sandeep.panwar0094@gmail.com. I'm always open to connecting and discussing exciting opportunities!<br/><br/>
+ 💬&emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
 </p>
 
