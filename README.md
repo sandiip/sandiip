@@ -12,8 +12,8 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=sandiip">
-  <img align="right" src="https://komarev.com/ghpvc/?username=sandiip&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -53,7 +53,7 @@
  ✌️&emsp;Currently, I'm working as a React.js developer, continuously honing my skills and exploring the depths of Python. <br/><br/>
  ❤️&emsp;I'm passionate about UI/UX development and creating captivating user experiences.<br/><br/>
  📧&emsp;Feel free to drop me a line at sandeep.panwar0094@gmail.com. I'm always open to connecting and discussing exciting opportunities!<br/><br/>
- 💬&emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 💬&emsp;Ask me about anything [here](https://github.com/sandiip/sandiip/pulls)
 
 </p>
 
